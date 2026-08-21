@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
-  <!-- University/Graduation cap -->
-  <polygon points="100,40 30,80 100,120 170,80" fill="#1a56db"/>
-  <rect x="70" y="80" width="60" height="40" fill="#1a56db"/>
-  <line x1="100" y1="120" x2="100" y2="160" stroke="#1a56db" stroke-width="3"/>
-  <rect x="80" y="155" width="40" height="8" rx="4" fill="#1a56db"/>
-  <circle cx="100" cy="40" r="6" fill="#f97316"/>
-</svg>

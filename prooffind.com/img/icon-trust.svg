@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
-  <!-- Trust/Shield -->
-  <path d="M100 30L40 60v50c0 40 25 70 60 80 35-10 60-40 60-80V60L100 30z" fill="white" stroke="#1a56db" stroke-width="3"/>
-  <path d="M80 100l15 15 30-30" stroke="#1a56db" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
