@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Document -->
+  <rect x="200" y="100" width="400" height="400" rx="12" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+  
+  <!-- Lines of text -->
+  <rect x="240" y="160" width="320" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="240" y="190" width="280" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="240" y="220" width="300" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="240" y="250" width="260" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="240" y="280" width="320" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="240" y="310" width="240" height="8" rx="4" fill="#e5e7eb"/>
+  
+  <!-- Checkmark -->
+  <circle cx="500" cy="400" r="40" fill="#1a56db"/>
+  <path d="M480 400l15 15 30-30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Pen -->
+  <path d="M150 450l20-60 30 10-20 60z" fill="#f97316"/>
+  <path d="M140 510l20-60 30 10-20 60z" fill="#f97316"/>
+  
+  <!-- Magnifying glass -->
+  <circle cx="650" cy="200" r="50" stroke="#1a56db" stroke-width="4" fill="none"/>
+  <line x1="690" y1="240" x2="730" y2="280" stroke="#1a56db" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Stars -->
+  <polygon points="100,100 110,130 140,130 115,150 125,180 100,160 75,180 85,150 60,130 90,130" fill="#fbbf24"/>
+  <polygon points="700,450 710,480 740,480 715,500 725,530 700,510 675,530 685,500 660,480 690,480" fill="#fbbf24"/>
+</svg>
