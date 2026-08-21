@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Main Images -->
+  <url>
+    <loc>https://prooffind.com/</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/hero-proofreading.svg</image:loc>
+      <image:title>รับพิสูจน์อักษร Prooffind</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://prooffind.com/img/logo.svg</image:loc>
+      <image:title>โลโก้ Prooffind</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Service Icons -->
+  <url>
+    <loc>https://prooffind.com/thesis.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-thesis.svg</image:loc>
+      <image:title>ไอคอนวิทยานิพนธ์</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/novel.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-novel.svg</image:loc>
+      <image:title>ไอคอนนิยาย</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/english.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-english.svg</image:loc>
+      <image:title>ไอคอนภาษาอังกฤษ</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/ai-check.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-ai-detection.svg</image:loc>
+      <image:title>ไอคอนตรวจ AI</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/editing.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-editing.svg</image:loc>
+      <image:title>ไอคอนบรรณาธิการ</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/pricing.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-pricing.svg</image:loc>
+      <image:title>ไอคอนราคา</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/contact.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/icon-contact.svg</image:loc>
+      <image:title>ไอคอนติดต่อเรา</image:title>
+    </image:image>
+  </url>
+  
+  <!-- OG Images -->
+  <url>
+    <loc>https://prooffind.com/index.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-index.png</image:loc>
+      <image:title>OG Image - หน้าแรก</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/thesis.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-thesis.png</image:loc>
+      <image:title>OG Image - วิทยานิพนธ์</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/novel.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-novel.png</image:loc>
+      <image:title>OG Image - นิยาย</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/english.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-english.png</image:loc>
+      <image:title>OG Image - ภาษาอังกฤษ</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/contact.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-contact.png</image:loc>
+      <image:title>OG Image - ติดต่อเรา</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Blog OG Images -->
+  <url>
+    <loc>https://prooffind.com/blog-proofreading-guide.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-proofreading-guide.svg</image:loc>
+      <image:title>OG Image - พิสูจน์อักษร คืออะไร</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-thesis-guide.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-thesis-guide.svg</image:loc>
+      <image:title>OG Image - เทคนิคเขียนวิทยานิพนธ์</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-english-errors.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-english-errors.svg</image:loc>
+      <image:title>OG Image - ข้อผิดพลาดภาษาอังกฤษ</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-self-check.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-self-check.svg</image:loc>
+      <image:title>OG Image - ตรวจงานก่อนส่ง</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-choose-service.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-choose-service.svg</image:loc>
+      <image:title>OG Image - เลือกบริการพิสูจน์อักษร</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-apa-ieee.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-apa-ieee.svg</image:loc>
+      <image:title>OG Image - APA vs IEEE</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-editor-vs-proofreader.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-editor-vs-proofreader.svg</image:loc>
+      <image:title>OG Image - บรรณาธิการ vs พิสูจน์อักษร</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-ai-detection.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-ai-detection.svg</image:loc>
+      <image:title>OG Image - ตรวจจับ AI</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-ai-thesis-check.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-ai-thesis-check.svg</image:loc>
+      <image:title>OG Image - ตรวจวิทยานิพนธ์ด้วย AI</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-proofreading-future.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-proofreading-future.svg</image:loc>
+      <image:title>OG Image - อนาคตพิสูจน์อักษร</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-novel-proofreading.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-novel-proofreading.svg</image:loc>
+      <image:title>OG Image - พิสูจน์อักษรนิยาย</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-self-check-tips.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-self-check-tips.svg</image:loc>
+      <image:title>OG Image - เทคนิคตรวจคำผิด</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-choose-proofreading.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-choose-proofreading.svg</image:loc>
+      <image:title>OG Image - เลือกบริการให้คุ้มค่า</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/blog-thesis-mistakes.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-blog-thesis-mistakes.svg</image:loc>
+      <image:title>OG Image - ข้อผิดพลาดวิทยานิพนธ์</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/glossary.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-glossary.svg</image:loc>
+      <image:title>OG Image - ศัพท์เทคนิค</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://prooffind.com/how-it-works.html</loc>
+    <image:image>
+      <image:loc>https://prooffind.com/img/og-how-it-works.svg</image:loc>
+      <image:title>OG Image - วิธีทำงาน</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,10 @@
+# robots.txt for prooffind.com
+# https://prooffind.com
+
+User-agent: *
+Allow: /
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: https://prooffind.com/sitemap.xml
